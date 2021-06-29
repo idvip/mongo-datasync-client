@@ -1,0 +1,6 @@
+/node_modules
+/datas
+/package-lock.json
+!/datas/readme.txt
+/.idea
+/runconfig.json
